@@ -3,6 +3,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/eliq53hhs8rsbq18?svg=true)](https://ci.appveyor.com/project/joancaron/cryptocompare-api)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/2dec058efba4445ba2af6e0e54308758)](https://www.codacy.com/app/joancaron/cryptocompare-api?utm_source=github.com&utm_medium=referral&utm_content=joancaron/cryptocompare-api&utm_campaign=badger)
 [![NuGet](https://img.shields.io/nuget/v/CryptoCompare.svg)](https://www.nuget.org/packages/CryptoCompare/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjoancaron%2Fcryptocompare-api.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjoancaron%2Fcryptocompare-api?ref=badge_shield)
 
 ![logo](cryptocompare_logo.png)
 
@@ -83,3 +84,7 @@ Console.WriteLine(eth.Data.General.Name);
 
 
 ----------
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjoancaron%2Fcryptocompare-api.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjoancaron%2Fcryptocompare-api?ref=badge_large)
